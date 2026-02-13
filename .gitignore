@@ -1,0 +1,5 @@
+models/*.pt
+*.gdoc
+*.gsheet
+*.gslides
+.ipynb_checkpoints/

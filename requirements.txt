@@ -1,0 +1,14 @@
+ultralytics
+opencv-python-headless
+torch
+torchvision
+torchaudio
+numpy
+matplotlib
+tqdm
+python-dotenv
+requests
+Pillow
+transformers
+huggingface-hub
+roboflow
