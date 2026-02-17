@@ -7,7 +7,7 @@ This project analyzes basketball game videos using computer vision. It detects a
 
 Download or play the demo video directly from this repository:
 
-- [Demo video](./demo.avi)
+- [Demo video](./demo.gif)
 
 ## Features
 
